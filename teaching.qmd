@@ -2,11 +2,11 @@
 title: "Teaching"
 ---
 
-### Instructor of record
+## Instructor of record
 
 Fall 2025
 
-Social connection: From Conversation to Networks
+### Social connection: From Conversation to Networks
 
 -   Instructor of record for undergraduate seminar course of own design
 
@@ -14,46 +14,56 @@ Social connection: From Conversation to Networks
 
 -   Awarded all-university Frank Finger Graduate Fellowship for Teaching (among the highest honors graduate students are eligible for, awarded to one PhD student for outstanding, organized, and stimulating teaching)
 
--   Evaluations: 4.93/5
+-   Evaluations: **4.93/5**
 
-![](teaching.jpg)
+-   Description: Who do we choose to be friends with? Why do we stay friends with them? What do we say and do during good conversations? How does our surrounding social network impact us? How do we perceive interactions between other people? Together, we will discuss the current research on social connection by answering questions such as these. We will explore why social ties are so important, why people behave the way they do during social interactions, and why people sometimes interpret the same interaction differently. Understanding how psychologists study social connection may prompt you to reflect on your own conversations, relationships, and social networks throughout this class.
 
-### Teaching assistant, lead lab instructor
+![](/images/teaching.jpg)
+
+## Teaching assistant, lead lab instructor
 
 Spring 2025
 
-Experimental Design & Analysis II (R; graduate-level)
+### Experimental Design & Analysis II (R; graduate-level)
 
 -   Assisted Dr. M. Joey Meyer
 
--   Evaluations: 4.92/5
+-   Evaluations: **4.92/5**
+
+-   Topics: Regression, power, ANOVA, ANOVA by regression, post-hoc tests, factorial ANOVA, model comparison, ANCOVA, repeated measures ANOVA, general linear model, MANOVA, multiple regression, multilevel models
 
 Spring 2024
 
-Research Methods & Data Analysis II (R; undergraduate)\
+### Research Methods & Data Analysis II (R; undergraduate) 
 
 -   Assisted Dr. M. Joey Meyer
 
--   Evaluations: 4.86/5
+-   Evaluations: **4.86/5**
+
+-   Topics: Regression, t-tests, power, validity, ANOVA, ANOVA by regression, factorial ANOVA, repeated measures ANOVA, non-parametric designs, multiple regression
 
 Spring 2023
 
-Research Methods & Data Analysis II (R; undergraduate)\
+### Research Methods & Data Analysis II (R; undergraduate) 
 
 -   Assisted Dr. M. Joey Meyer
 
 -   Evaluations: NA
 
-### Teaching assistant
+-   Topics: Regression, t-tests, power, validity, ANOVA, ANOVA by regression, factorial ANOVA, repeated measures ANOVA, non-parametric designs, multiple regression
+
+## Teaching assistant
 
 Spring 2022
 
-Introduction to Cognition\
+### Introduction to Cognition 
 
 -   Assisted Dr. Mariana Teles
+-   Evaluations: NA
 
 Fall 2021
 
-Neural Basis of Behavior\
+### Neural Basis of Behavior 
 
 -   Assisted Dr. Erin Clabough
+-   Evaluations: NA

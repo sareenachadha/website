@@ -8,14 +8,14 @@ title: "Software"
 
 -   Estimates association and coordination between two time series that may have shifting features (dyadic nonverbal behavior, physiology, etc.)
 
-    ![Simulated dyadic data, with statistical features that change over time](software_timeseries.png)
+    ![Simulated dyadic data, with statistical features that change over time](/images/software_timeseries.png)
 
 -   Plots windowed cross correlation
 
-    ![Windowed cross correlation plot for dyadic electrocardiogram data](software_wcc.png)
+    ![Windowed cross correlation plot for dyadic electrocardiogram data](/images/software_wcc.png)
 
 -   Assists researchers in selecting optimal parameters for such estimation
 
-    ![Checking for parameter spread across a subset of dyads from electrocardiograph data](software_heatmap.png)
+    ![Checking for parameter spread across a subset of dyads from electrocardiograph data](/images/software_heatmap.png)
 
 -   Creates surrogate dyads, to ensure any association via windowed cross correlation is due to true interaction
