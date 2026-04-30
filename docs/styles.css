@@ -2,12 +2,12 @@
 
 /* --- Root variables (easy theming) --- */
 :root {
-  --bg: #ffffff;              
+  --bg: white;              
   --text: #0f172a;          
   --muted: #AA7DCE;          
   --accent: #3B429F;         
   --accent-light: #A8577E;
-  --card: #ffffff;
+  --card: white;
   --border: #F4A5AE;
 }
 
