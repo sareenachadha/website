@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Curriculum Vitae\n[PDF]"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Research on social connection is especially crucial in an age of rising loneliness, living alone, and remote work. In some of my projects, I have used computational tools to separately study social networks, behavior over time, and behavior during conversation, with current work seeking to combine these approaches.\n\nPublications\nFor an up-to-date list, see my Google Scholar page!\n(** = mentee)\n\nDo people laugh in conversation because they feel similar, or feel more similar because they laugh? [PDF] {OSF}\n\nWood, A., Chadha, S., Liu, C., **Yuan, Q., Davis, A., Elnakouri, A., … & Boker, S. M. (2026). Laughter indicates perceived similarity among friends and strangers. Journal of Nonverbal Behavior, 1-27.\n\n\n\nIs there a tradeoff between spending time with familiar social others and new connections? [PDF]\n\nTsang, S., Barrentine, K., Chadha, S., Oishi, S., & Wood, A. (2025). Social exploration: How and why people seek new connections. Psychological Review\n\n\n\nIs belonging better predicted by acting like peers or believing you act like peers? [PDF] {OSF}\n\nChadha, S., **Ha, T., & Wood, A. (2024). Thinking you’re different matters more for belonging than being different. Scientific Reports, 14(1), 7574.\n\n\n\nDo we see ourselves the same way others do? Does that gap in perception matter for connection to a social network? [PDF] {OSF}\n\nChadha, S., Kleinbaum, A. M., & Wood, A. (2023). Social networks are shaped by culturally contingent assessments of social competence. Scientific Reports, 13(1), 7974.\n\n\n\n\n\nWorking Papers\nA few of my current projects!\n\nHow can researchers best select parameters to measure synchrony?\n\nBoker, S., Welker, C., Wu, J., & Chadha, S. (under review) Parameter Selection for Windowed Cross Correlation to Assess Association between Psychophysiological Timeseries\n\n\n\nDo lonely people have stricter or looser definitions of a friend? Should friends expect the same things from one another?\n\nChadha, S., Rodriguez., & Wood, A. (in preparation). Lonely people expect less from their friends.\n\n\n\nWhen do conversation partners become a more coherent social unit?\n\nChadha., S., Boker, S., Henry, T., & Wood, A. (in preparation) Signaling similarity: how friends and strangers agree, laugh, and nod together\n\n\n\nAs someone settles into a new community, how does their social behavior, physical exploration, and experience of the world dynamically shift?\n\nChadha, S., Tsang, S., Liu, C., **Li, R., Henry, T., Oishi, S., & Wood, A. (in preparation).Dynamics of time spent with social others in a new social environment.\n\n\n\nCan we measure someone’s tendency to prefer time with familiar vs. unfamiliar partners?\n\nTsang, S., Chadha, S., Oishi, S., & Wood, A. (in preparation).Measuring the Tendency to Socially Explore and Exploit"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Instructor of record\nFall 2025\nSocial connection: From Conversation to Networks\n\nInstructor of record for undergraduate seminar course of own design\nAwarded UVA Distinguished Teaching Fellowship for opportunity to teach\nAwarded all-university Frank Finger Graduate Fellowship for Teaching (among the highest honors graduate students are eligible for, awarded to one PhD student for outstanding, organized, and stimulating teaching)\nEvaluations: 4.93/5\n\n\n\n\nTeaching assistant, lead lab instructor\nSpring 2025\nExperimental Design & Analysis II (R; graduate-level)\n\nAssisted Dr. M. Joey Meyer\nEvaluations: 4.92/5\n\nSpring 2024\nResearch Methods & Data Analysis II (R; undergraduate)\n\n\nAssisted Dr. M. Joey Meyer\nEvaluations: 4.86/5\n\nSpring 2023\nResearch Methods & Data Analysis II (R; undergraduate)\n\n\nAssisted Dr. M. Joey Meyer\nEvaluations: NA\n\n\n\nTeaching assistant\nSpring 2022\nIntroduction to Cognition\n\n\nAssisted Dr. Mariana Teles\n\nFall 2021\nNeural Basis of Behavior\n\n\nAssisted Dr. Erin Clabough"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sareena Chadha",
+    "section": "",
+    "text": "I am a social psychologist studying friendship, social networks, and conversation. I am an incoming postdoctoral fellow at the Neukom Institute for Computational Science at Dartmouth, working with Dr. Mark Thornton in the SCRAP Lab and Dr. Adam Kleinbaum in the Tuck School of Business. I earned my Ph.D, M.A., and B.A. from the University of Virginia, working with Dr. Adrienne Wood in the Emotion and Behavior Lab.\nAcross projects, I’ve asked questions like: do we see ourselves the same way others do? Does that gap in perception matter for connection to a social network? What behaviors reliably happen in a conversation between friends, and how do those patterns differ for strangers? To answer questions like these, I use a combination of naturalistic paradigms, intensive longitudinal methods, and network analysis. My academic work is a commitment to fostering, researching, and teaching about one of the most vital forces in daily life—friendship.\nsareena.chadha@dartmouth.edu\nLinkedIn\nORCID\nGoogle Scholar"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "wcc R package [CRAN]\n\nBoker, S., Xu, M., Chadha, S., Welker, C., Wu, J., Deboeck, P. (2026)\nEstimates association and coordination between two time series that may have shifting features (dyadic nonverbal behavior, physiology, etc.)\n\n\n\nSimulated dyadic data, with statistical features that change over time\n\n\nPlots windowed cross correlation\n\n\n\nWindowed cross correlation plot for dyadic electrocardiogram data\n\n\nAssists researchers in selecting optimal parameters for such estimation\n\n\n\nChecking for parameter spread across a subset of dyads from electrocardiograph data\n\n\nCreates surrogate dyads, to ensure any association via windowed cross correlation is due to true interaction"
+  }
+]

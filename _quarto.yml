@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs   # required for GitHub Pages
+
+website:
+  title: "Sareena Chadha"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: software.qmd
+        text: Software
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: false
+    include-in-header:
+      text: |
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+

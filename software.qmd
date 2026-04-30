@@ -1,0 +1,21 @@
+---
+title: "Software"
+---
+
+### wcc R package \[[CRAN](https://cran.r-project.org/package=wcc)\]
+
+-   Boker, S., Xu, M., **Chadha, S.,** Welker, C., Wu, J., Deboeck, P. (2026)
+
+-   Estimates association and coordination between two time series that may have shifting features (dyadic nonverbal behavior, physiology, etc.)
+
+    ![Simulated dyadic data, with statistical features that change over time](software_timeseries.png)
+
+-   Plots windowed cross correlation
+
+    ![Windowed cross correlation plot for dyadic electrocardiogram data](software_wcc.png)
+
+-   Assists researchers in selecting optimal parameters for such estimation
+
+    ![Checking for parameter spread across a subset of dyads from electrocardiograph data](software_heatmap.png)
+
+-   Creates surrogate dyads, to ensure any association via windowed cross correlation is due to true interaction

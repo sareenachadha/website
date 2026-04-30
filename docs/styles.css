@@ -1,0 +1,107 @@
+/* css styles */
+/* ================================
+   2026 Minimal Academic Theme
+   Clean, airy, high-contrast, modern
+================================ */
+
+/* --- Root variables (easy theming) --- */
+:root {
+  --bg: #f8fafc;              /* soft off-white */
+  --text: #0f172a;           /* near-black navy */
+  --muted: #AA7DCE;          /* slate gray */
+  --accent: #3B429F;         /* modern indigo */
+  --accent-light: #A8577E;
+  --card: #ffffff;
+  --border: #F4A5AE;
+}
+
+/* --- Global layout --- */
+body {
+  font-family: "Inter", "Helvetica Neue", Arial, sans-serif;
+  background-color: var(--bg);
+  color: var(--text);
+  line-height: 1.65;
+  margin: 0;
+}
+
+/* Center content like modern academic sites */
+.container {
+  max-width: 1400px !important;
+}
+
+/* --- Headings --- */
+h1 {
+  font-size: 2.2rem;
+  letter-spacing: -0.02em;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  font-size: 1.4rem;
+  margin-top: 2rem;
+  color: var(--text);
+}
+
+h3 {
+  font-size: 1.1rem;
+  color: var(--muted);
+}
+
+/* --- Links --- */
+a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  color: var(--accent-light);
+  text-decoration: underline;
+}
+
+/* --- Navbar (Quarto-specific) --- */
+.navbar {
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--border);
+}
+
+/* --- Cards (for CV sections, publications, etc.) --- */
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 1.2rem 1.5rem;
+  margin: 1rem 0;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+
+/* --- Subtle hover effect for sections --- */
+.card:hover {
+  transform: translateY(-2px);
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+}
+
+/* --- Buttons (if you use any) --- */
+button, .btn {
+  background: var(--accent);
+  color: white;
+  border: none;
+  padding: 0.6rem 1rem;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: var(--accent-light);
+}
+
+/* --- Subtle typography hierarchy --- */
+p {
+  color: var(--text);
+}
+
+small, .muted {
+  color: var(--muted);
+}
